@@ -125,7 +125,7 @@ const ComingSoonPage = () => {
 
                         {/* Subtitle */}
                         <p className="text-base md:text-lg lg:text-xl text-gray-600 max-w-2xl leading-relaxed">
-                            We're working hard to bring you something amazing. Stay tuned for updates and exciting announcements.
+                            We&apos;re working hard to bring you something amazing. Stay tuned for updates and exciting announcements.
                         </p>
 
                         {/* Animated Icon/Graphic */}
